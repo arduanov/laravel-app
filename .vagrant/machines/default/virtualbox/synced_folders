@@ -1,0 +1,1 @@
+{"nfs":{"/home/vagrant/blog":{"type":"nfs","mount_options":["actimeo=1"],"guestpath":"/home/vagrant/blog","hostpath":"/Users/marsel/Documents/projects/blog","disabled":false,"map_uid":502,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"3505993504"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/marsel/Documents/projects/blog","disabled":false}}}
